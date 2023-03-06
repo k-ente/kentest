@@ -78,3 +78,4 @@ def get_data(days, tickers):
         st.altair_chart(chart, use_container_width=True)
 
 
+ 
